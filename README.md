@@ -2,12 +2,6 @@
 
 Welcome to my GitHub profile! I am a passionate and experienced software engineer with a strong background in various programming languages, frameworks, and tools. Here’s a bit about me:
 
-## Programming Languages
-
-- **Typescript/Javascript**
-- **Go**
-- **Python**
-
 ## Tool Proficiency
 
 ### Frontend
@@ -29,6 +23,8 @@ Welcome to my GitHub profile! I am a passionate and experienced software enginee
 - **KrakenD**
 - **Terraform**
 - **CICD**
+- **Grafana**
+- **Prometheus**
 
 ### Database
 
@@ -39,12 +35,6 @@ Welcome to my GitHub profile! I am a passionate and experienced software enginee
 ## Cloud Computing Services
 
 - **AWS**
-- **Azure**
-
-## Monitoring Tools
-
-- **Grafana**
-- **Prometheus**
 
 ## About Me
 
