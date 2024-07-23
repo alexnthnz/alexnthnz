@@ -36,18 +36,6 @@ Welcome to my GitHub profile! I am a passionate and experienced software enginee
 - **PostgreSQL**
 - **MongoDB**
 
-## Software Methodology Proficiency
-
-- **Agile/SCRUM**
-- **Waterfall**
-- **Git**
-
-## Task Management Tools
-
-- **Trello**
-- **Jira**
-- **Azure DevOps**
-
 ## Cloud Computing Services
 
 - **AWS**
