@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Alex! 👋
 
 Welcome to my GitHub profile! I am a passionate and experienced software engineer with a strong background in various programming languages, frameworks, and tools. Here’s a bit about me:
 
