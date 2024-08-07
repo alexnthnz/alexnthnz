@@ -16,7 +16,7 @@ Feel free to explore my repositories and get in touch if you’d like to collabo
 
 ### Contact Me
 
-- **LinkedIn**: [https://www.linkedin.com/in/namnguyen0112/](https://www.linkedin.com/in/namnguyen0112/)
+- **LinkedIn**: [https://www.linkedin.com/in/alexnguyen0112/](https://www.linkedin.com/in/alexnguyen0112/)
 - **Email**: alexnguyenth96@gmail.com
 
 Thanks for stopping by!
