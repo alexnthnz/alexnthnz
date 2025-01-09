@@ -1,3 +1,4 @@
+![header](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 # 💫 About Me:
 Hi there, I'm Alex! 👋<br><br>Welcome to my GitHub profile! I am a passionate and experienced software engineer with a strong background in various programming languages, frameworks, and tools. Here’s a bit about me:<br><br>What I Do<br><br>- **Frontend**: ReactJS, NextJS<br>- **Backend**: Python (Flask), NodeJS (ExpressJS, NestJS), Go (Fiber,Kit)<br>- **Devops**: Docker, Kubernetes, Helm, Terraform, CICD, Grafana, Prometheus, Cloud (AWS)<br><br>About Me<br><br>I have co-founded an AI startup and have extensive experience in building and deploying scalable applications. My journey has taken me from Vietnam to New Zealand, and I am always excited to take on new challenges and learn new technologies. <br><br>Feel free to explore my repositories and get in touch if you’d like to collaborate on a project or just have a chat!<br><br>Thanks for stopping by!
 
