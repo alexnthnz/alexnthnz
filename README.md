@@ -7,6 +7,6 @@ Hi there, I'm Alex! 👋<br><br>Welcome to my GitHub profile! I am a passionate 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexnguyen0112) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/alexth0112) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hnamnguyen0112&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hnamnguyen0112&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hnamnguyen0112&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=alexnthnz&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=alexnthnz&theme=default_repocard&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexnthnz&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
